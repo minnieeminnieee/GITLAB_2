@@ -3,10 +3,10 @@ int main()
 {
       double firstNumber, secondNumber, temporaryVariable;
 
-      printf("Enter first number: ");
+      printf("Enter First Number: ");
       scanf("%lf", &firstNumber);
 
-      printf("Enter second number: ");
+      printf("Enter Second Number: ");
       scanf("%lf",&secondNumber);
 
       // Value of firstNumber is assigned to temporaryVariable
